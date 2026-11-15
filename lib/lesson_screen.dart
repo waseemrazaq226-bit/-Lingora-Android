@@ -142,7 +142,8 @@ class _LessonScreenState extends State<LessonScreen> {
           builder: (_, scale, child) => Transform.scale(scale: scale, child: child),
           child: AcademyBanner(title: widget.review ? 'Review complete!' : 'Lesson complete!',
           subtitle: '+$earned XP', world: 4, mascot: true),
-        const SizedBox(height: 18),
+),
+const SizedBox(height: 18),
         FilledButton(onPressed: () => Navigator.pop(context), child: const Text('Back to academy')),
       ] : [
         Semantics(label: 'Exercise ${index + 1} of ${exercises.length}',
