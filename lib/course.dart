@@ -22,7 +22,7 @@ class Lesson {
 
   List<Exercise> exercises({required bool urdu, bool review = false}) {
     final result = <Exercise>[];
-    final random = Random(id.codeUnits.fold(0, (a, b) => a + b));
+    final random = Random(id.codeUnits.fold<int>(0, (a, b) => a + b));
     for (var index = 0; index < phrases.length; index++) {
       final phrase = phrases[index];
       final answer = phrase.en;
