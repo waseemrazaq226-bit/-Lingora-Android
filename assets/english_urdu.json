@@ -1,0 +1,407 @@
+[
+  {
+    "title": "The Beginning Forest",
+    "urdu": "ابتدائی جنگل",
+    "lessons": [
+      {
+        "id": "w1l1",
+        "title": "Greetings",
+        "urdu": "سلام اور ملاقات",
+        "entries": [
+          {
+            "en": "Hello.",
+            "ur": "سلام۔",
+            "tip": "Hello is a greeting at any time.",
+            "urduTip": "Hello کسی بھی وقت سلام کرنے کے لیے استعمال ہوتا ہے۔"
+          },
+          {
+            "en": "Good morning.",
+            "ur": "صبح بخیر۔",
+            "tip": "Use this greeting in the morning.",
+            "urduTip": "یہ جملہ صبح کے وقت بولتے ہیں۔"
+          },
+          {
+            "en": "Goodbye.",
+            "ur": "خدا حافظ۔",
+            "tip": "Say goodbye when leaving.",
+            "urduTip": "رخصت ہوتے وقت Goodbye کہیں۔"
+          }
+        ]
+      },
+      {
+        "id": "w1l2",
+        "title": "Introductions",
+        "urdu": "تعارف",
+        "entries": [
+          {
+            "en": "My name is Ali.",
+            "ur": "میرا نام علی ہے۔",
+            "tip": "Use “My name is” before your name.",
+            "urduTip": "نام بتانے کے لیے پہلے My name is کہیں۔"
+          },
+          {
+            "en": "I am Sara.",
+            "ur": "میں سارہ ہوں۔",
+            "tip": "Use “I am” to introduce yourself.",
+            "urduTip": "اپنا تعارف دینے کے لیے I am بولیں۔"
+          },
+          {
+            "en": "Nice to meet you.",
+            "ur": "آپ سے مل کر خوشی ہوئی۔",
+            "tip": "Use this when meeting someone for the first time.",
+            "urduTip": "کسی سے پہلی بار ملتے وقت یہ جملہ بولیں۔"
+          }
+        ]
+      },
+      {
+        "id": "w1l3",
+        "title": "Polite replies",
+        "urdu": "ادب سے جواب",
+        "entries": [
+          {
+            "en": "Thank you.",
+            "ur": "شکریہ۔",
+            "tip": "Thank someone for help or a gift.",
+            "urduTip": "مدد یا تحفے پر شکریہ ادا کریں۔"
+          },
+          {
+            "en": "You are welcome.",
+            "ur": "کوئی بات نہیں۔",
+            "tip": "This is a polite reply to “Thank you.”",
+            "urduTip": "یہ Thank you کا مؤدبانہ جواب ہے۔"
+          },
+          {
+            "en": "I am sorry.",
+            "ur": "مجھے افسوس ہے۔",
+            "tip": "Use this to apologize.",
+            "urduTip": "معذرت کرنے کے لیے یہ کہیں۔"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Language Village",
+    "urdu": "زبانوں کا گاؤں",
+    "lessons": [
+      {
+        "id": "w2l1",
+        "title": "My family",
+        "urdu": "میرا خاندان",
+        "entries": [
+          {
+            "en": "This is my mother.",
+            "ur": "یہ میری والدہ ہیں۔",
+            "tip": "“My” shows a relationship to the speaker.",
+            "urduTip": "My سے اپنا رشتہ ظاہر ہوتا ہے۔"
+          },
+          {
+            "en": "He is my brother.",
+            "ur": "وہ میرا بھائی ہے۔",
+            "tip": "Use “he” for a boy or man.",
+            "urduTip": "لڑکے یا مرد کے لیے he استعمال کریں۔"
+          },
+          {
+            "en": "She is my sister.",
+            "ur": "وہ میری بہن ہے۔",
+            "tip": "Use “she” for a girl or woman.",
+            "urduTip": "لڑکی یا عورت کے لیے she استعمال کریں۔"
+          }
+        ]
+      },
+      {
+        "id": "w2l2",
+        "title": "Numbers and objects",
+        "urdu": "اعداد اور چیزیں",
+        "entries": [
+          {
+            "en": "I have one pen.",
+            "ur": "میرے پاس ایک قلم ہے۔",
+            "tip": "Use the singular “pen” after “one.”",
+            "urduTip": "One کے بعد pen کی واحد شکل استعمال کریں۔"
+          },
+          {
+            "en": "I have two books.",
+            "ur": "میرے پاس دو کتابیں ہیں۔",
+            "tip": "Add -s to “book” for more than one.",
+            "urduTip": "ایک سے زیادہ کتابوں کے لیے book کے آخر میں s لگائیں۔"
+          },
+          {
+            "en": "I see three bags.",
+            "ur": "مجھے تین بستے نظر آ رہے ہیں۔",
+            "tip": "“I see” says what is visible to you.",
+            "urduTip": "جو چیز نظر آئے اسے بیان کرنے کے لیے I see استعمال کریں۔"
+          }
+        ]
+      },
+      {
+        "id": "w2l3",
+        "title": "Colors",
+        "urdu": "رنگ",
+        "entries": [
+          {
+            "en": "The book is red.",
+            "ur": "کتاب سرخ ہے۔",
+            "tip": "A color can come after “is.”",
+            "urduTip": "رنگ بتانے والا لفظ is کے بعد آ سکتا ہے۔"
+          },
+          {
+            "en": "It is a blue bag.",
+            "ur": "یہ ایک نیلا بستہ ہے۔",
+            "tip": "A color can come before the noun.",
+            "urduTip": "رنگ بتانے والا لفظ اسم سے پہلے آ سکتا ہے۔"
+          },
+          {
+            "en": "My shoes are black.",
+            "ur": "میرے جوتے کالے ہیں۔",
+            "tip": "Use “are” with plural “shoes.”",
+            "urduTip": "Shoes جمع ہے، اس کے ساتھ are استعمال کریں۔"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Crystal Mountains",
+    "urdu": "بلور کے پہاڑ",
+    "lessons": [
+      {
+        "id": "w3l1",
+        "title": "Present simple",
+        "urdu": "زمانہ حال سادہ",
+        "entries": [
+          {
+            "en": "I play cricket.",
+            "ur": "میں کرکٹ کھیلتا ہوں۔",
+            "tip": "Use the base verb after “I.”",
+            "urduTip": "I کے بعد فعل کی بنیادی شکل استعمال کریں۔"
+          },
+          {
+            "en": "She reads books.",
+            "ur": "وہ کتابیں پڑھتی ہے۔",
+            "tip": "In the present simple, add -s to “read” after “she.”",
+            "urduTip": "سادہ حال میں she کے بعد read کے آخر میں s لگائیں۔"
+          },
+          {
+            "en": "We study English.",
+            "ur": "ہم انگریزی پڑھتے ہیں۔",
+            "tip": "Use the base verb after “we.”",
+            "urduTip": "We کے بعد فعل کی بنیادی شکل استعمال کریں۔"
+          }
+        ]
+      },
+      {
+        "id": "w3l2",
+        "title": "Saying no",
+        "urdu": "منفی جملے",
+        "entries": [
+          {
+            "en": "I do not like tea.",
+            "ur": "مجھے چائے پسند نہیں۔",
+            "tip": "Use “do not” with “I.”",
+            "urduTip": "I کے ساتھ do not استعمال کریں۔"
+          },
+          {
+            "en": "He does not play football.",
+            "ur": "وہ فٹ بال نہیں کھیلتا۔",
+            "tip": "After “does not,” use “play” without -s.",
+            "urduTip": "Does not کے بعد play کے آخر میں s نہ لگائیں۔"
+          },
+          {
+            "en": "We do not live here.",
+            "ur": "ہم یہاں نہیں رہتے۔",
+            "tip": "Use “do not” with “we.”",
+            "urduTip": "We کے ساتھ do not استعمال کریں۔"
+          }
+        ]
+      },
+      {
+        "id": "w3l3",
+        "title": "Places and words",
+        "urdu": "جگہ بتانے والے الفاظ",
+        "entries": [
+          {
+            "en": "The bag is under the table.",
+            "ur": "بستہ میز کے نیچے ہے۔",
+            "tip": "“Under” means below something.",
+            "urduTip": "Under کا مطلب کسی چیز کے نیچے ہے۔"
+          },
+          {
+            "en": "The pen is on the desk.",
+            "ur": "قلم میز پر ہے۔",
+            "tip": "Use “on” when an object rests on a surface.",
+            "urduTip": "سطح پر رکھی چیز کے لیے on استعمال کریں۔"
+          },
+          {
+            "en": "The keys are in the bag.",
+            "ur": "چابیاں بستے میں ہیں۔",
+            "tip": "“In” means inside something.",
+            "urduTip": "In کا مطلب کسی چیز کے اندر ہے۔"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Speaking Kingdom",
+    "urdu": "گفتگو کی سلطنت",
+    "lessons": [
+      {
+        "id": "w4l1",
+        "title": "Ordering food",
+        "urdu": "کھانا منگوانا",
+        "entries": [
+          {
+            "en": "Can I have some water?",
+            "ur": "کیا مجھے کچھ پانی مل سکتا ہے؟",
+            "tip": "“Can I have” is a common polite request.",
+            "urduTip": "کسی چیز کی مؤدبانہ درخواست کے لیے Can I have کہیں۔"
+          },
+          {
+            "en": "I would like some rice.",
+            "ur": "مجھے کچھ چاول چاہییں۔",
+            "tip": "“I would like” sounds polite when ordering.",
+            "urduTip": "آرڈر دیتے وقت I would like مؤدبانہ انداز ہے۔"
+          },
+          {
+            "en": "How much is it?",
+            "ur": "یہ کتنے کا ہے؟",
+            "tip": "Use “How much” to ask the price.",
+            "urduTip": "قیمت پوچھنے کے لیے How much استعمال کریں۔"
+          }
+        ]
+      },
+      {
+        "id": "w4l2",
+        "title": "Directions",
+        "urdu": "راستہ پوچھنا",
+        "entries": [
+          {
+            "en": "Where is the station?",
+            "ur": "ریلوے اسٹیشن کہاں ہے؟",
+            "tip": "“Where” asks about a place.",
+            "urduTip": "جگہ پوچھنے کے لیے Where بولیں۔"
+          },
+          {
+            "en": "Turn left.",
+            "ur": "بائیں مڑیں۔",
+            "tip": "“Left” is the opposite of “right.”",
+            "urduTip": "Left یعنی بائیں، اور right یعنی دائیں۔"
+          },
+          {
+            "en": "Go straight.",
+            "ur": "سیدھا جائیں۔",
+            "tip": "“Straight” here means forward without turning.",
+            "urduTip": "یہاں straight کا مطلب مڑے بغیر آگے جانا ہے۔"
+          }
+        ]
+      },
+      {
+        "id": "w4l3",
+        "title": "School conversations",
+        "urdu": "اسکول میں گفتگو",
+        "entries": [
+          {
+            "en": "What time is class?",
+            "ur": "کلاس کتنے بجے ہے؟",
+            "tip": "Use “What time” to ask when something starts.",
+            "urduTip": "وقت پوچھنے کے لیے What time استعمال کریں۔"
+          },
+          {
+            "en": "Can you help me?",
+            "ur": "کیا آپ میری مدد کر سکتے ہیں؟",
+            "tip": "“Can you” is useful when asking someone to do something.",
+            "urduTip": "کسی سے مدد یا کام کی درخواست کے لیے Can you بولیں۔"
+          },
+          {
+            "en": "I do not understand.",
+            "ur": "مجھے سمجھ نہیں آئی۔",
+            "tip": "Say this when you need a clearer explanation.",
+            "urduTip": "مزید وضاحت چاہیے ہو تو یہ جملہ کہیں۔"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Knowledge Castle",
+    "urdu": "علم کا قلعہ",
+    "lessons": [
+      {
+        "id": "w5l1",
+        "title": "Yesterday",
+        "urdu": "گزرا ہوا کل",
+        "entries": [
+          {
+            "en": "I visited my aunt.",
+            "ur": "میں اپنی خالہ سے ملنے گیا۔",
+            "tip": "Add -ed to “visit” for the regular past tense.",
+            "urduTip": "سادہ ماضی کے لیے visit کے آخر میں ed لگائیں۔"
+          },
+          {
+            "en": "We went to school.",
+            "ur": "ہم اسکول گئے۔",
+            "tip": "“Went” is the irregular past form of “go.”",
+            "urduTip": "Went فعل go کی ماضی کی شکل ہے۔"
+          },
+          {
+            "en": "She watched a film.",
+            "ur": "اس نے ایک فلم دیکھی۔",
+            "tip": "“Watched” describes a finished past action.",
+            "urduTip": "Watched ماضی میں مکمل ہوا کام ظاہر کرتا ہے۔"
+          }
+        ]
+      },
+      {
+        "id": "w5l2",
+        "title": "Making plans",
+        "urdu": "منصوبے بنانا",
+        "entries": [
+          {
+            "en": "I will call you tomorrow.",
+            "ur": "میں کل آپ کو فون کروں گا۔",
+            "tip": "Use “will” followed by a base verb.",
+            "urduTip": "Will کے بعد فعل کی بنیادی شکل لگائیں۔"
+          },
+          {
+            "en": "We will meet at five.",
+            "ur": "ہم پانچ بجے ملیں گے۔",
+            "tip": "Use “at” with a specific time.",
+            "urduTip": "مقررہ وقت سے پہلے at استعمال کریں۔"
+          },
+          {
+            "en": "She will bring her book.",
+            "ur": "وہ اپنی کتاب لائے گی۔",
+            "tip": "Use “bring” for taking something to a meeting point.",
+            "urduTip": "کسی چیز کو ساتھ لانے کے لیے bring استعمال کریں۔"
+          }
+        ]
+      },
+      {
+        "id": "w5l3",
+        "title": "Reading a short note",
+        "urdu": "مختصر پیغام پڑھنا",
+        "entries": [
+          {
+            "en": "The library opens at nine.",
+            "ur": "کتب خانہ نو بجے کھلتا ہے۔",
+            "tip": "Find the opening time after “at.”",
+            "urduTip": "کھلنے کا وقت at کے بعد لکھا ہے۔"
+          },
+          {
+            "en": "Bring your library card.",
+            "ur": "اپنا کتب خانے کا کارڈ ساتھ لائیں۔",
+            "tip": "A sentence beginning with “Bring” gives an instruction.",
+            "urduTip": "Bring سے شروع ہونے والا جملہ ہدایت دیتا ہے۔"
+          },
+          {
+            "en": "The library is closed on Friday.",
+            "ur": "کتب خانہ جمعے کو بند ہے۔",
+            "tip": "Use “on” before a day of the week.",
+            "urduTip": "ہفتے کے کسی دن سے پہلے on استعمال کریں۔"
+          }
+        ]
+      }
+    ]
+  }
+]

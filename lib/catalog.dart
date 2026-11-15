@@ -1,0 +1,72 @@
+class Language {
+  const Language(this.code, this.name, this.nativeName);
+  final String code;
+  final String name;
+  final String nativeName;
+  bool get available => code == 'en';
+  String get status => available ? 'Available' : 'Coming Soon';
+  bool matches(String query) =>
+      '$name $nativeName $code'.toLowerCase().contains(query.trim().toLowerCase());
+}
+
+const languages = [
+  Language('ur', 'Urdu', 'اردو'),
+  Language('hi', 'Hindi', 'हिन्दी'),
+  Language('pa', 'Punjabi', 'پنجابی · ਪੰਜਾਬੀ'),
+  Language('bn', 'Bengali', 'বাংলা'),
+  Language('gu', 'Gujarati', 'ગુજરાતી'),
+  Language('mr', 'Marathi', 'मराठी'),
+  Language('ta', 'Tamil', 'தமிழ்'),
+  Language('te', 'Telugu', 'తెలుగు'),
+  Language('ml', 'Malayalam', 'മലയാളം'),
+  Language('kn', 'Kannada', 'ಕನ್ನಡ'),
+  Language('ne', 'Nepali', 'नेपाली'),
+  Language('si', 'Sinhala', 'සිංහල'),
+  Language('ps', 'Pashto', 'پښتو'),
+  Language('sd', 'Sindhi', 'سنڌي'),
+  Language('en', 'English', 'English'),
+  Language('es', 'Spanish', 'Español'),
+  Language('fr', 'French', 'Français'),
+  Language('de', 'German', 'Deutsch'),
+  Language('it', 'Italian', 'Italiano'),
+  Language('pt', 'Portuguese', 'Português'),
+  Language('nl', 'Dutch', 'Nederlands'),
+  Language('sv', 'Swedish', 'Svenska'),
+  Language('no', 'Norwegian', 'Norsk'),
+  Language('da', 'Danish', 'Dansk'),
+  Language('fi', 'Finnish', 'Suomi'),
+  Language('pl', 'Polish', 'Polski'),
+  Language('el', 'Greek', 'Ελληνικά'),
+  Language('ro', 'Romanian', 'Română'),
+  Language('uk', 'Ukrainian', 'Українська'),
+  Language('ru', 'Russian', 'Русский'),
+  Language('cs', 'Czech', 'Čeština'),
+  Language('hu', 'Hungarian', 'Magyar'),
+  Language('ar', 'Arabic', 'العربية'),
+  Language('fa', 'Persian', 'فارسی'),
+  Language('tr', 'Turkish', 'Türkçe'),
+  Language('he', 'Hebrew', 'עברית'),
+  Language('ku', 'Kurdish', 'Kurdî · کوردی'),
+  Language('zh', 'Mandarin Chinese', '普通话'),
+  Language('yue', 'Cantonese', '廣東話'),
+  Language('ja', 'Japanese', '日本語'),
+  Language('ko', 'Korean', '한국어'),
+  Language('mn', 'Mongolian', 'Монгол'),
+  Language('id', 'Indonesian', 'Bahasa Indonesia'),
+  Language('ms', 'Malay', 'Bahasa Melayu'),
+  Language('th', 'Thai', 'ไทย'),
+  Language('vi', 'Vietnamese', 'Tiếng Việt'),
+  Language('fil', 'Filipino', 'Filipino'),
+  Language('my', 'Burmese', 'မြန်မာ'),
+  Language('km', 'Khmer', 'ខ្មែរ'),
+  Language('lo', 'Lao', 'ລາວ'),
+  Language('sw', 'Swahili', 'Kiswahili'),
+  Language('ha', 'Hausa', 'Hausa'),
+  Language('am', 'Amharic', 'አማርኛ'),
+  Language('so', 'Somali', 'Soomaali'),
+  Language('yo', 'Yoruba', 'Yorùbá'),
+  Language('zu', 'Zulu', 'isiZulu'),
+  Language('af', 'Afrikaans', 'Afrikaans'),
+  Language('eo', 'Esperanto', 'Esperanto'),
+  Language('la', 'Latin', 'Latina'),
+];
